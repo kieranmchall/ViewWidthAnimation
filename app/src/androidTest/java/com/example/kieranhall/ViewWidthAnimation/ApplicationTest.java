@@ -1,4 +1,4 @@
-package com.example.kieranhall.activitytransition;
+package com.example.kieranhall.ViewWidthAnimation;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

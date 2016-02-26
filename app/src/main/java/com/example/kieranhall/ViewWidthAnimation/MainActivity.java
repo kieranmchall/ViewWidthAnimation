@@ -1,14 +1,11 @@
-package com.example.kieranhall.activitytransition;
+package com.example.kieranhall.ViewWidthAnimation;
 
 import android.os.Bundle;
-import android.support.v4.app.ActivityOptionsCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.view.animation.AccelerateDecelerateInterpolator;
 import android.view.animation.AccelerateInterpolator;
 import android.view.animation.Animation;
-import android.view.animation.BounceInterpolator;
-import android.widget.RelativeLayout;
 
 public class MainActivity
         extends AppCompatActivity {
